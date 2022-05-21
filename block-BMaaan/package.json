@@ -1,8 +1,7 @@
 {
   "name": "altcampus-assignment",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests"
   },
@@ -10,5 +9,7 @@
   "license": "GNU GPL V3",
   "dependencies": {
     "jest": "^26.0.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
